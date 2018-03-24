@@ -16,6 +16,8 @@
     "id": "117471515",
     "loginId": "1759034",
     "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "120374303",
     "titleTextEncoded": "iPad-Mini-4-Review-It-s-Still-the-Best-Tablet-You-Can-Buy",
     "category": null,
     "tvp_profiles": [
@@ -39,5 +41,16 @@
         "prettyDuration": "00:06:29"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-02-21\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-02-15\"}}}"
+    "metrics_statistics": {
+        "VV_VI": {
+            "engagement_score": {
+                "lastUpdatedDate": "2018-02-21"
+            }
+        },
+        "CVV_VI": {
+            "conversion_score": {
+                "lastUpdatedDate": "2018-02-15"
+            }
+        }
+    }
 }

@@ -16,6 +16,8 @@
     "id": "117471521",
     "loginId": "1759034",
     "entityType": "1",
+    "sortOrder": "4",
+    "entityIdParent": "120374303",
     "titleTextEncoded": "Acer-One-10-10-1-Intel-Atom-32GB-S1002-145A-2-IN-1-Small-Review",
     "category": null,
     "tvp_profiles": [
@@ -38,5 +40,16 @@
         "prettyDuration": "00:03:46"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-02-21\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-02-15\"}}}"
+    "metrics_statistics": {
+        "VV_VI": {
+            "engagement_score": {
+                "lastUpdatedDate": "2018-02-21"
+            }
+        },
+        "CVV_VI": {
+            "conversion_score": {
+                "lastUpdatedDate": "2018-02-15"
+            }
+        }
+    }
 }
